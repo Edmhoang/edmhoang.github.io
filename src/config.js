@@ -82,7 +82,6 @@ module.exports = {
             'Python',
             Course: 'Capstone Project',
         },
-        }
     ],
     blog: {
         // Display blog posts from your medium or dev.to account. (Optional)
