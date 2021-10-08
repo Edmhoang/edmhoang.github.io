@@ -63,8 +63,8 @@ module.exports = {
     ],
     blog: {
         // Display blog posts from your medium or dev.to account. (Optional)
-        source: 'dev.to', // medium | dev.to
-        username: 'arifszn',
+        source: '', // medium | dev.to
+        username: '',
         limit: 2 // How many posts to display. Max is 10.
     },
     googleAnalytics: {
@@ -76,7 +76,7 @@ module.exports = {
         snippetVersion : 6
     },
     themeConfig: {
-        default: 'light',
+        default: 'lofi',
 
         // Hides the switch in the navbar
         // Useful if you want to support a single color mode
