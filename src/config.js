@@ -61,28 +61,6 @@ module.exports = {
             to: '2019',
         }
     ],
-      Schoolproject: [
-        { 
-            Project name: 'Building database structure for sale department',
-            'MySQL',
-            Course: 'Database Concepts',
-        },
-         { 
-            Project name: 'Mining absenteeism data in the workplace',
-            'R',
-            Course: 'Data Mining',
-        },
-            { 
-            Project name: 'Data visualization in Youtube Trending Videos',
-            'Tableau',
-            Course: 'Data Visualization',
-        },
-            { 
-            Project name: 'Exploratory Data in k-mean clustering',
-            'Python',
-            Course: 'Capstone Project',
-        },
-    ],
     blog: {
         // Display blog posts from your medium or dev.to account. (Optional)
         source: '', // medium | dev.to
