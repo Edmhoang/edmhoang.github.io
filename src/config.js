@@ -10,32 +10,22 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'ariful-alam',
-        twitter: 'arif_swozon',
+        linkedin: 'eddie-hoang2809',
+        twitter: '',
         facebook: '',
         dribbble: '',
         behance: '',
         medium: '',
         devto: '',
-        website: 'https://arifszn.github.io',
+        website: 'https://edmhoang.github.io',
         phone: '',
-        email: 'contact@arifszn.com'
+        email: 'minhduc2034@gmail.com'
     },
     skills: [
-        'PHP',
-        'Laravel',
-        'JavaScript',
-        'React.js',
-        'Vue.js',
-        'Node.js',
-        'Jquery',
         'MySQL',
-        'Git',
-        'Docker',
-        'CSS',
-        'Antd',
-        'Tailwind',
-        'Bootstrap',
+        'Python',
+        'Tableau',
+        'R',
     ],
     experiences: [
         { 
@@ -59,22 +49,16 @@ module.exports = {
     ],
     education: [
         { 
-            institution: 'American International University-Bangladesh',
-            degree: 'Bachelor of Science',
+            institution: 'Cape Breton University, Nova Scotia',
+            degree: 'Post Baccalaureate of Business Analytics',
+            from: '2020',
+            to: '2022'
+        },
+        { 
+            institution: 'University of Economics Ho Chi Minh City, Vietnam',
+            degree: 'Bachelor of Accounting',
             from: '2015',
-            to: '2019'
-        },
-        { 
-            institution: 'Cantonment College, Jessore',
-            degree: 'Higher Secondary Certificate (HSC)',
-            from: '2012',
-            to: '2014',
-        },
-        { 
-            institution: 'Chowgacha Shahadat Pilot High School',
-            degree: 'Secondary School Certificate (SSC)',
-            from: '2007',
-            to: '2012'
+            to: '2019',
         }
     ],
     blog: {
