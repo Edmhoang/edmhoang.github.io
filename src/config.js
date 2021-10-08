@@ -85,10 +85,10 @@ module.exports = {
     },
     googleAnalytics: {
         // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-        id: 'G-WLLB5E14M6' // Please remove this and use your own tag id
+        id: '' // Please remove this and use your own tag id
     },
     hotjar: {
-        id: '2617601', //  Please remove this and use your own id
+        id: '', //  Please remove this and use your own id
         snippetVersion : 6
     },
     themeConfig: {
