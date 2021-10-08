@@ -65,7 +65,7 @@ module.exports = {
         // Display blog posts from your medium or dev.to account. (Optional)
         source: '', // medium | dev.to
         username: '',
-        limit: 2 // How many posts to display. Max is 10.
+        limit: 0 // How many posts to display. Max is 10.
     },
     googleAnalytics: {
         // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
