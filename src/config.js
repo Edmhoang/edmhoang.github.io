@@ -10,7 +10,7 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'eddie-hoang2809',
+        linkedin: 'https://www.linkedin.com/in/eddie-hoang2809/',
         twitter: '',
         facebook: '',
         dribbble: '',
@@ -29,21 +29,21 @@ module.exports = {
     ],
     experiences: [
         { 
-            company: 'Monstarlab Bangladesh',
-            position: 'Software Engineer',
-            from: 'September 2021',
+            company: 'Sobeys Halifax, Canada',
+            position: 'HMR Clerk',
+            from: 'March 2021',
             to: 'Present'
         },
         { 
-            company: 'Orangetoolz - My Offer 360 Degree',
-            position: 'Jr. Full Stack Engineer',
-            from: 'July 2019',
-            to: 'August 2021'
+            company: 'Walmart Sydney River, Canada',
+            position: 'Customer Experience Salefloor Associates',
+            from: 'April 2020',
+            to: 'November 2020'
         },
         { 
-            company: 'Techvillage',
-            position: 'Jr. Software Engineer',
-            from: 'January 2019',
+            company: 'PricewaterhouseCoopers, Vietnam',
+            position: 'Transfer Pricing Intern',
+            from: 'October 2018',
             to: ' June 2019'
         }
     ],
